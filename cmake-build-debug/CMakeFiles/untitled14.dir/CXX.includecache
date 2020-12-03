@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/owen/CLionProjects/untitled14/main.cpp
+map
+-
+set
+-
+stack
+-
+queue
+-
+vector
+-
+algorithm
+-
+functional
+-
+iterator
+-
+iostream
+-
+bits/stdc++.h
+/home/owen/CLionProjects/untitled14/bits/stdc++.h
+
